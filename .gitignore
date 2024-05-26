@@ -1,0 +1,6 @@
+dia_01/.terraform
+dia_01/.terraform.lock.hcl
+dia_01/destruir
+dia_01/plano
+dia_01/terraform.tfstate
+dia_01/terraform.tfstate.backup
