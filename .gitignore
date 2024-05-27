@@ -39,5 +39,6 @@ terraform.rc
 
 plano
 destruir
+.credentials-terraform.sh
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
