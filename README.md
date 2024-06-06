@@ -5,3 +5,4 @@
 .day03 - _Learning_
     - State
     - Locking state
+    - Workspaces
