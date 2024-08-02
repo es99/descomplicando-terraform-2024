@@ -7,3 +7,5 @@
     - Locking state
     - Workspaces
     - Import
+    - Outputs:
+	- Remote State: pegando dados de um outro state para utilizar no código HCL atual
