@@ -10,4 +10,5 @@
     - Outputs:
 	- Remote State: pegando dados de um outro state para utilizar no código HCL atual
 - day04 - _progress_
-    - Modules
+    - aula01: Modules
+    - aula02: Movendo State
